@@ -1,4 +1,4 @@
 Movoo
 =====
 
-movie share
+A social platform for movie share.
