@@ -1,0 +1,19 @@
+May 20, 2013
+
+
+1. create the gmail account of movoo :        
+username:  mymovoo@gmail.com
+password:  movie@share
+2. create the github account for development collaboration: 
+        username: movoo
+        password: movie@share2013
+        email: mymovoo@gmail.com
+3. create the google doc for log record: 
+        under the account of mymovoo@gmail.com
+        dir_name: mymovoo_incubate
+
+
+May 22, 2013
+
+1. create the index.html hosted by usc server
+2. setup "bootstrap" framework
